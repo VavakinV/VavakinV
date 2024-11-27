@@ -1,7 +1,6 @@
 ## Hi there 👋
 <div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajYybWljd3hpcHN6emxuZWVqMml3ZjcyYzNtOXpsa2ZpN3NucmpkcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QXWRp1CNGnMnZunC3/giphy.gif" height="150">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjR3ZW0zeml0ZjE1YzY5MXBrOHBkbWZqanZhNnMya2tzYXlyYjAycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WhoNyvVjuB88HjDK0l/giphy.gif" height="150">
+  <img src="https://tenor.com/bXOOs.gif" height="150">
 </div>
 
 <!--
