@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ## Current language statistics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creatior&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavakinv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
