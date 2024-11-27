@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://giphy.com/embed/5QXWRp1CNGnMnZunC3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://giphy.com/embed/5QXWRp1CNGnMnZunC3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen/>
 
 ## Current language statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavakinv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
