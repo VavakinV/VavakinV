@@ -1,6 +1,6 @@
 ## Hi there 👋
-<div>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpzOWlub240OWhnczgwb2tjbjdxcWFjZDEzcGh6MmRzNWs1ZTdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hbB8efOHAezRK/giphy.gif" height="150">
+<div align="center">
+  <img src="https://tenor.com/bXDGV.gif" height="150">
 </div>
 
 <!--
