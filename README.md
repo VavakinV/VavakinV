@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTdxcHhqcDF2ajVjN2MycGw0NzlubzNzcGZ1bDU2MzYzOGFtYmRndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QXWRp1CNGnMnZunC3/giphy-downsized-large.gif" height="150">
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/04/capybara-gif-8.gif" height="150">
 </div>
 
 <!--
