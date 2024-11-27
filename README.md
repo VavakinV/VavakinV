@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<iframe src="https://giphy.com/embed/5QXWRp1CNGnMnZunC3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-capybara-capybaras-wasserschwein-5QXWRp1CNGnMnZunC3">via GIPHY</a></p>
+<img src="https://giphy.com/embed/5QXWRp1CNGnMnZunC3" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/zooberlin-capybara-capybaras-wasserschwein-5QXWRp1CNGnMnZunC3"></a></p>>
 
 ## Current language statistics
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vavakinv&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
